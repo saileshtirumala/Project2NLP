@@ -13,7 +13,7 @@ First we need to install the following packages.
 6. gevent
 
 
-Run the app.ipynb file in jupyter notebook.
+Run the app.py file.
 
 And open the localhost:9194 in new tab.
 
