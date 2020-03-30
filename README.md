@@ -10,6 +10,8 @@ First we need to install the following packages.
 3. flask_wtf
 4. google search
 5. wolframalpha 
+6. gevent
+
 
 Run the app.ipynb file in jupyter notebook.
 
